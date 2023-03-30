@@ -1,0 +1,32 @@
+/* Bagian file news */
+.isi{
+    margin-top: 3%;
+    width: 60%;
+    margin-left: 20%;
+    
+}
+.tmbol{
+    font-size: 20px;
+    border: 1px solid green;
+    background-color: white;
+    width: 20%;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 10%;
+    font-weight: 500;
+}
+.tmbol:hover{
+    background-color: green;
+    color: white;
+}
+.Input{
+    font-size: 20px;
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.Input:hover{
+    background-color: lightgray;
+}
+/* akhir css file news */
